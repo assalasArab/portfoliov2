@@ -1,5 +1,5 @@
 ---
-title: DIGITAL:CPU Dathapath+CC
+title: DIGITAL:CPU Datapath+CC
 publishDate: 2024-03-25 00:00:00
 img: /assets/stock-2.jpg
 img_alt: Carcassonne game logo

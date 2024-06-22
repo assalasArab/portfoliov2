@@ -3,9 +3,9 @@ title: FRONT-END Project
 publishDate: 2024-03-25 00:00:00
 img: /assets/stock-3.jpg
 img_alt: Carcassonne game logo
-description: Carcassonne Board Game Programming Project in C Language. In collaboration with Evan ESTREMS.
+description: This front-end website simplifies the process of creating and registering for 1v1 matches in the popular video game Rocket League.
 tags:
-  - C language 
+  - HTML CSS JS
   - Dev
   - User Testing
 ---
